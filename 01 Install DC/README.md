@@ -30,6 +30,7 @@ Get-DnsClientServerAddress
 Set-DnsClientServerAddress -InterfaceIndex (Whichever your IP address is using for DNS) -ServerAddresses (Your DC IP Address)
 ```
 
+*Add Workstation to Domain using PowerShell
 ```
 Add-Computer -Domainname xyz.com -Credential xyz\Administrator -Force -Restart
 ```
