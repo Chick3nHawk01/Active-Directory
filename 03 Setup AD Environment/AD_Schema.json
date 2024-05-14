@@ -1,0 +1,652 @@
+{
+    "domain":  "xyz.com",
+    "users":  [
+                  {
+                      "groups":  "Executives",
+                      "name":  "Joan Berry",
+                      "password":  "smiley"
+                  },
+                  {
+                      "groups":  "Researchers",
+                      "name":  "Vanessa Randall",
+                      "password":  "hahaha"
+                  },
+                  {
+                      "groups":  "Marketing",
+                      "name":  "Mary Gibson",
+                      "password":  "single"
+                  },
+                  {
+                      "groups":  "Managers",
+                      "name":  "Irene Nash",
+                      "password":  "abcdef"
+                  },
+                  {
+                      "groups":  "Managers",
+                      "name":  "John Walsh",
+                      "password":  "january"
+                  },
+                  {
+                      "groups":  "Student",
+                      "name":  "Ava Jones",
+                      "password":  "banana"
+                  },
+                  {
+                      "groups":  "Human Resources",
+                      "name":  "Cameron Tucker",
+                      "password":  "linkinpark"
+                  },
+                  {
+                      "groups":  "Employees",
+                      "name":  "Ian Gill",
+                      "password":  "dennis"
+                  },
+                  {
+                      "groups":  "Managers",
+                      "name":  "Grace Buckland",
+                      "password":  "sweetheart"
+                  },
+                  {
+                      "groups":  "Teachers",
+                      "name":  "Joshua Blake",
+                      "password":  "teiubesc"
+                  },
+                  {
+                      "groups":  "Employees",
+                      "name":  "Theresa Rees",
+                      "password":  "steven"
+                  },
+                  {
+                      "groups":  "Sales",
+                      "name":  "Adrian Paige",
+                      "password":  "kevin"
+                  },
+                  {
+                      "groups":  "Researchers",
+                      "name":  "Alexandra Jackson",
+                      "password":  "alexandra"
+                  },
+                  {
+                      "groups":  "Human Resources",
+                      "name":  "Natalie Brown",
+                      "password":  "isabel"
+                  },
+                  {
+                      "groups":  "Engineers",
+                      "name":  "Oliver Arnold",
+                      "password":  "jason"
+                  },
+                  {
+                      "groups":  "Lawyer",
+                      "name":  "Richard Howard",
+                      "password":  "monique"
+                  },
+                  {
+                      "groups":  "Employees",
+                      "name":  "Wendy Short",
+                      "password":  "lovely"
+                  },
+                  {
+                      "groups":  "Managers",
+                      "name":  "Rebecca Sanderson",
+                      "password":  "denise"
+                  },
+                  {
+                      "groups":  "Developers",
+                      "name":  "Joe King",
+                      "password":  "junior"
+                  },
+                  {
+                      "groups":  "Student",
+                      "name":  "Jason Cameron",
+                      "password":  "123321"
+                  }
+                  {
+                    "groups":  "Marketing",
+                    "name":  "Sonia Brown",
+                    "password":  "softball"
+                },
+                {
+                    "groups":  "Developers",
+                    "name":  "Yvonne Nolan",
+                    "password":  "hunter"
+                },
+                {
+                    "groups":  "Personnel",
+                    "name":  "Sebastian Simpson",
+                    "password":  "james"
+                },
+                {
+                    "groups":  "Security",
+                    "name":  "Nicola Fisher",
+                    "password":  "chrisbrown"
+                },
+                {
+                    "groups":  "Operations",
+                    "name":  "Leah Mitchell",
+                    "password":  "diego"
+                },
+                {
+                    "groups":  "Managers",
+                    "name":  "Alexandra Sutherland",
+                    "password":  "kitty"
+                },
+                {
+                    "groups":  "Marketing",
+                    "name":  "Liam Chapman",
+                    "password":  "casper"
+                },
+                {
+                    "groups":  "Executives",
+                    "name":  "Christopher Ball",
+                    "password":  "jenny"
+                },
+                {
+                    "groups":  "Human Resources",
+                    "name":  "Luke Mackenzie",
+                    "password":  "789456"
+                },
+                {
+                    "groups":  "Engineers",
+                    "name":  "Megan Coleman",
+                    "password":  "aaliyah"
+                },
+                {
+                    "groups":  "Engineers",
+                    "name":  "Kylie Murray",
+                    "password":  "adidas"
+                },
+                {
+                    "groups":  "Managers",
+                    "name":  "William Hardacre",
+                    "password":  "dancer"
+                },
+                {
+                    "groups":  "Researchers",
+                    "name":  "Jake Dickens",
+                    "password":  "987654321"
+                },
+                {
+                    "groups":  "Security",
+                    "name":  "Piers Stewart",
+                    "password":  "chocolate"
+                },
+                {
+                    "groups":  "Teachers",
+                    "name":  "Adrian Ince",
+                    "password":  "iloveu"
+                },
+                {
+                    "groups":  "Personnel",
+                    "name":  "Jan Kelly",
+                    "password":  "louise"
+                },
+                {
+                    "groups":  "Engineers",
+                    "name":  "Stewart Hamilton",
+                    "password":  "lovely"
+                },
+                {
+                    "groups":  "Managers",
+                    "name":  "Jason Miller",
+                    "password":  "junior"
+                },
+                {
+                    "groups":  "Student",
+                    "name":  "Dominic Ferguson",
+                    "password":  "nicholas"
+                },
+                {
+                    "groups":  "Employees",
+                    "name":  "Vanessa Hunter",
+                    "password":  "morgan"
+                },
+                {
+                    "groups":  "Employees",
+                    "name":  "Hannah Hemmings",
+                    "password":  "0123456789"
+                },
+                {
+                    "groups":  "Student",
+                    "name":  "Phil Fraser",
+                    "password":  "ronaldo"
+                },
+                {
+                    "groups":  "Teachers",
+                    "name":  "Tim Gill",
+                    "password":  "jayson"
+                },
+                {
+                    "groups":  "Managers",
+                    "name":  "Frank Metcalfe",
+                    "password":  "batman"
+                },
+                {
+                    "groups":  "Human Resources",
+                    "name":  "Harry James",
+                    "password":  "333333"
+                },
+                {
+                    "groups":  "Operations",
+                    "name":  "Amanda Bond",
+                    "password":  "cantik"
+                },
+                {
+                    "groups":  "Researchers",
+                    "name":  "Abigail Sanderson",
+                    "password":  "0123456"
+                },
+                {
+                    "groups":  "Operations",
+                    "name":  "Sarah Taylor",
+                    "password":  "bailey"
+                },
+                {
+                    "groups":  "Teachers",
+                    "name":  "Connor Lyman",
+                    "password":  "samsung"
+                },
+                {
+                    "groups":  "Employees",
+                    "name":  "Sam Peters",
+                    "password":  "5201314"
+                },
+                {
+                    "groups":  "Security",
+                    "name":  "Stephanie Hart",
+                    "password":  "popcorn"
+                },
+                {
+                    "groups":  "Student",
+                    "name":  "Austin Rampling",
+                    "password":  "melissa"
+                },
+                {
+                    "groups":  "Human Resources",
+                    "name":  "Neil Bailey",
+                    "password":  "newyork"
+                },
+                {
+                    "groups":  "Security",
+                    "name":  "Kevin Lee",
+                    "password":  "lovers"
+                },
+                {
+                    "groups":  "Teachers",
+                    "name":  "Evan Reid",
+                    "password":  "arsenal"
+                },
+                {
+                    "groups":  "Sales",
+                    "name":  "Alan Gray",
+                    "password":  "monique"
+                },
+                {
+                    "groups":  "Operations",
+                    "name":  "Maria May",
+                    "password":  "eeyore"
+                },
+                {
+                    "groups":  "Human Resources",
+                    "name":  "Bella Carr",
+                    "password":  "456789"
+                },
+                {
+                    "groups":  "Human Resources",
+                    "name":  "Andrew MacLeod",
+                    "password":  "celtic"
+                },
+                {
+                    "groups":  "Marketing",
+                    "name":  "Irene Martin",
+                    "password":  "jordan23"
+                },
+                {
+                    "groups":  "Human Resources",
+                    "name":  "Chloe Jackson",
+                    "password":  "mahalko"
+                },
+                {
+                    "groups":  "Lawyer",
+                    "name":  "Emma Vaughan",
+                    "password":  "123456789"
+                },
+                {
+                    "groups":  "Sales",
+                    "name":  "Joshua Hughes",
+                    "password":  "carlos"
+                },
+                {
+                    "groups":  "Employees",
+                    "name":  "Ava Bower",
+                    "password":  "password"
+                },
+                {
+                    "groups":  "Security",
+                    "name":  "Katherine White",
+                    "password":  "232323"
+                },
+                {
+                    "groups":  "Lawyer",
+                    "name":  "Una Edmunds",
+                    "password":  "mylove"
+                },
+                {
+                    "groups":  "Operations",
+                    "name":  "Sue Wilkins",
+                    "password":  "volleyball"
+                },
+                {
+                    "groups":  "Developers",
+                    "name":  "Karen Duncan",
+                    "password":  "liliana"
+                },
+                {
+                    "groups":  "Marketing",
+                    "name":  "Fiona Buckland",
+                    "password":  "ricardo"
+                },
+                {
+                    "groups":  "Personnel",
+                    "name":  "Owen Paterson",
+                    "password":  "777777"
+                },
+                {
+                    "groups":  "Employees",
+                    "name":  "John Parsons",
+                    "password":  "johncena"
+                },
+                {
+                    "groups":  "Executives",
+                    "name":  "Diane Nash",
+                    "password":  "147258369"
+                },
+                {
+                    "groups":  "Engineers",
+                    "name":  "Warren Davies",
+                    "password":  "camila"
+                },
+                {
+                    "groups":  "Operations",
+                    "name":  "Ian Sharp",
+                    "password":  "samantha"
+                },
+                {
+                    "groups":  "Engineers",
+                    "name":  "Ella Robertson",
+                    "password":  "jasper"
+                },
+                {
+                    "groups":  "Human Resources",
+                    "name":  "Ruth Morgan",
+                    "password":  "babyboy"
+                },
+                {
+                    "groups":  "Employees",
+                    "name":  "Robert Mills",
+                    "password":  "sharon"
+                },
+                {
+                    "groups":  "Sales",
+                    "name":  "Jennifer Berry",
+                    "password":  "michael"
+                },
+                {
+                    "groups":  "Lawyer",
+                    "name":  "Sally Arnold",
+                    "password":  "pepper"
+                },
+                {
+                    "groups":  "Human Resources",
+                    "name":  "Deirdre Watson",
+                    "password":  "gabriela"
+                },
+                {
+                    "groups":  "Researchers",
+                    "name":  "Paul Underwood",
+                    "password":  "123456"
+                },
+                {
+                    "groups":  "Lawyer",
+                    "name":  "Isaac Dyer",
+                    "password":  "kelsey"
+                },
+                {
+                    "groups":  "Security",
+                    "name":  "Peter Ellison",
+                    "password":  "leonardo"
+                },
+                {
+                    "groups":  "Sales",
+                    "name":  "Lily Lewis",
+                    "password":  "rebelde"
+                },
+                {
+                    "groups":  "Developers",
+                    "name":  "Jacob Thomson",
+                    "password":  "blondie"
+                },
+                {
+                    "groups":  "Sales",
+                    "name":  "Anna Grant",
+                    "password":  "princess"
+                },
+                {
+                    "groups":  "Researchers",
+                    "name":  "Elizabeth Langdon",
+                    "password":  "marcus"
+                },
+                {
+                    "groups":  "Developers",
+                    "name":  "Andrea Campbell",
+                    "password":  "123654"
+                },
+                {
+                    "groups":  "Managers",
+                    "name":  "Joseph Jones",
+                    "password":  "august"
+                },
+                {
+                    "groups":  "Human Resources",
+                    "name":  "Michael Mathis",
+                    "password":  "dolphin"
+                },
+                {
+                    "groups":  "Developers",
+                    "name":  "Rose Churchill",
+                    "password":  "sweet"
+                },
+                {
+                    "groups":  "Security",
+                    "name":  "Natalie Randall",
+                    "password":  "gemini"
+                },
+                {
+                    "groups":  "Engineers",
+                    "name":  "Jack Johnston",
+                    "password":  "andrea"
+                },
+                {
+                    "groups":  "Security",
+                    "name":  "Max Short",
+                    "password":  "dolphins"
+                },
+                {
+                    "groups":  "Personnel",
+                    "name":  "Jonathan Skinner",
+                    "password":  "harrypotter"
+                },
+                {
+                    "groups":  "Researchers",
+                    "name":  "Theresa Avery",
+                    "password":  "00000"
+                },
+                {
+                    "groups":  "Personnel",
+                    "name":  "Lucas Harris",
+                    "password":  "12345678910"
+                },
+                {
+                    "groups":  "Developers",
+                    "name":  "Boris Lawrence",
+                    "password":  "mercedes"
+                },
+                {
+                    "groups":  "Executives",
+                    "name":  "Audrey Burgess",
+                    "password":  "12345"
+                },
+                {
+                    "groups":  "Operations",
+                    "name":  "Jessica Blake",
+                    "password":  "loveme"
+                },
+                {
+                    "groups":  "Security",
+                    "name":  "Wanda Davidson",
+                    "password":  "mommy1"
+                },
+                {
+                    "groups":  "Employees",
+                    "name":  "Lauren Welch",
+                    "password":  "booboo"
+                },
+                {
+                    "groups":  "Engineers",
+                    "name":  "Julian Ogden",
+                    "password":  "killer"
+                },
+                {
+                    "groups":  "Personnel",
+                    "name":  "Michelle Black",
+                    "password":  "johnny"
+                },
+                {
+                    "groups":  "Employees",
+                    "name":  "Felicity Clark",
+                    "password":  "elizabeth"
+                },
+                {
+                    "groups":  "Student",
+                    "name":  "Zoe Quinn",
+                    "password":  "daniel"
+                },
+                {
+                    "groups":  "Executives",
+                    "name":  "Alexander Knox",
+                    "password":  "muffin"
+                },
+                {
+                    "groups":  "Sales",
+                    "name":  "Brian Forsyth",
+                    "password":  "nirvana"
+                },
+                {
+                    "groups":  "Operations",
+                    "name":  "Amy Powell",
+                    "password":  "carmen"
+                },
+                {
+                    "groups":  "Personnel",
+                    "name":  "Penelope Wilson",
+                    "password":  "252525"
+                },
+                {
+                    "groups":  "Sales",
+                    "name":  "Donna Marshall",
+                    "password":  "dexter"
+                },
+                {
+                    "groups":  "Researchers",
+                    "name":  "Keith North",
+                    "password":  "hottie"
+                },
+                {
+                    "groups":  "Operations",
+                    "name":  "Wendy Newman",
+                    "password":  "secret"
+                },
+                {
+                    "groups":  "Executives",
+                    "name":  "Christian Hudson",
+                    "password":  "alexis"
+                },
+                {
+                    "groups":  "Teachers",
+                    "name":  "Caroline Henderson",
+                    "password":  "cherry"
+                },
+                {
+                    "groups":  "Executives",
+                    "name":  "Trevor Baker",
+                    "password":  "lakers"
+                },
+                {
+                    "groups":  "Employees",
+                    "name":  "Justin Turner",
+                    "password":  "teresa"
+                },
+                {
+                    "groups":  "Security",
+                    "name":  "Rachel Cornish",
+                    "password":  "mother"
+                },
+                {
+                    "groups":  "Executives",
+                    "name":  "Eric Paige",
+                    "password":  "whatever"
+                },
+                {
+                    "groups":  "Managers",
+                    "name":  "Tracey Graham",
+                    "password":  "ronald"
+                }
+              ],
+    "groups":  [
+                   {
+                       "name":  "Sales"
+                   },
+                   {
+                       "name":  "Security"
+                   },
+                   {
+                       "name":  "Executives"
+                   },
+                   {
+                       "name":  "Marketing"
+                   },
+                   {
+                       "name":  "Developers"
+                   },
+                   {
+                       "name":  "Operations"
+                   },
+                   {
+                       "name":  "Engineers"
+                   },
+                   {
+                       "name":  "Teachers"
+                   },
+                   {
+                       "name":  "Personnel"
+                   },
+                   {
+                       "name":  "Researchers"
+                   },
+                   {
+                       "name":  "Lawyer"
+                   },
+                   {
+                       "name":  "Human Resources"
+                   },
+                   {
+                       "name":  "Student"
+                   },
+                   {
+                       "name":  "Employees"
+                   },
+                   {
+                       "name":  "Managers"
+                   }
+               ]
+}
